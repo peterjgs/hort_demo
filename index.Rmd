@@ -10,4 +10,6 @@ description: "This is a collection of notes on plants, growing plants, soil, wat
 
 ---
 
-The start!
+# The start!
+
+One must start somewhere ...
