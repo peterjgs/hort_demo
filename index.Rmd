@@ -1,0 +1,13 @@
+---
+title: "Growing Plants and Beyond"
+author: "PGS"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+description: "This is a collection of notes on plants, growing plants, soil, water, .... The output format is bookdown::gitbook."
+
+---
+
+The start!
